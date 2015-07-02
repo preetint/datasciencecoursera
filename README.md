@@ -3,4 +3,4 @@ Test repository
 
 Hello World!
 
-I love :coffee:
+I love :coffee: and :pizza:
