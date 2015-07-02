@@ -2,3 +2,5 @@
 Test repository
 
 Hello World!
+
+I love :coffee:
